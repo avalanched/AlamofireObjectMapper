@@ -398,11 +398,9 @@
 				TargetAttributes = {
 					6AB2A0101AF26C36001EBB20 = {
 						CreatedOnToolsVersion = 6.3.1;
-						LastSwiftMigration = 0800;
 					};
 					6AB2A01B1AF26C36001EBB20 = {
 						CreatedOnToolsVersion = 6.3.1;
-						LastSwiftMigration = 0800;
 					};
 					6AB2A0841AF27DF1001EBB20 = {
 						CreatedOnToolsVersion = 6.3.1;
@@ -726,7 +724,6 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.tristanhimmelman.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
-				SWIFT_VERSION = 2.3;
 			};
 			name = Debug;
 		};
@@ -743,7 +740,6 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.tristanhimmelman.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
-				SWIFT_VERSION = 2.3;
 			};
 			name = Release;
 		};
